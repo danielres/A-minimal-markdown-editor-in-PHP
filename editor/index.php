@@ -44,7 +44,7 @@ fclose($handle);
 	    </div>
 	    
             <?php echo $before_preview ?>
-	    <div id="preview" class="wmd-preview"></preview>
+	    <div id="preview" class="wmd-preview"></div>
     </div>  
   </div>
 
